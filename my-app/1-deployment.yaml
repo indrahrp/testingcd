@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: indrahrp/nginx:v0.1.0
+          image: indrahrph/nginx:v0.1.0
           ports:
             - containerPort: 80
